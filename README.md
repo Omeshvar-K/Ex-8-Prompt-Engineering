@@ -29,5 +29,8 @@ Comparison between simple and detailed prompts
 
 Observations and analysis
 
+[AI_Video_Prompt_Comparison (1).pdf](https://github.com/user-attachments/files/28830639/AI_Video_Prompt_Comparison.1.pdf)
+
+
 Result:
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
